@@ -1,0 +1,11 @@
+
+// This file contains a new post to insert with id = 101, one more than highest existing id
+{"newPost" :
+    {
+        "userId": 10,
+        "id": 101,
+        "title": "Gettysburg Address",
+        "body": "Four score and seven years ago our fathers brought forth upon this continent a new nation"
+    }
+}
+
